@@ -1,0 +1,5 @@
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\bin\Release\Example1.exe
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\bin\Release\Example1.pdb
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\obj\Release\ResolveAssemblyReference.cache
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\obj\Release\Example1.exe
+E:\C#ForKids\Edit\C#ForKids_Edit\Examples\Example1\obj\Release\Example1.pdb
